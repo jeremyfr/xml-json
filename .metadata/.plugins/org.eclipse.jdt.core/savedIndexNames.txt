@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/home/etu5/Bacasable/projetdcll/xml-json/.metadata/.plugins/org.eclipse.jdt.core
+582033425.index

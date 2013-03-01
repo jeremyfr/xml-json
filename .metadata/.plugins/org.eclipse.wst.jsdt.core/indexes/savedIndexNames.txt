@@ -1,0 +1,1 @@
+INDEX VERSION 1.122+/home/etu5/Bacasable/projetdcll/xml-json/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
